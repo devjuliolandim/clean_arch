@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZZG9NjimXuU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Júlio César\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\CleanArchitecture.API\\CleanArchitecture.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Júlio César\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.3\\microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
+    "C:\\Users\\Júlio César\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
