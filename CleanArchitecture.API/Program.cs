@@ -1,22 +1,37 @@
+
+using CleanArchitecture.Persistence.Context;
+using CleanArchitecture.Persistence;
+using CleanArchitecture.Application.Services;
+
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
+builder.Services.ConfigurePersistenceApp(builder.Configuration);
+builder.Services.ConfigureApplicationApp();
 
+
+// Add services to the container.
 builder.Services.AddControllers();
-// Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
-builder.Services.AddOpenApi();
+
+
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+
+
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
+CreateDatabase(app);
+
+static void CreateDatabase(WebApplication app)
 {
-    app.MapOpenApi();
+    var serviceScope = app.Services.CreateScope();
+    var dataContext = serviceScope.ServiceProvider.GetService<AppDbContext>();
+    dataContext?.Database.EnsureCreated();
 }
 
-app.UseHttpsRedirection();
+app.UseSwagger();
 
-app.UseAuthorization();
+app.UseSwaggerUI();
 
 app.MapControllers();
 

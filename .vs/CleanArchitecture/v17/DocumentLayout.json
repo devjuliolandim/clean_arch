@@ -3,96 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\J\u00FAlio C\u00E9sar\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{97D07D27-3635-4942-B06A-DADE4DCFB23B}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\j\u00FAlio c\u00E9sar\\desktop\\bolsa\\cleanarch\\cleanarchitecture\\cleanarchitecture.application\\usecases\\createuser\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97D07D27-3635-4942-B06A-DADE4DCFB23B}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\usecases\\createuser\\createuserhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{608D4916-BD88-48AC-B021-A181817D7498}|CleanArchitecture.API\\CleanArchitecture.API.csproj|c:\\users\\j\u00FAlio c\u00E9sar\\desktop\\bolsa\\cleanarch\\cleanarchitecture\\cleanarchitecture.api\\cleanarchitecture.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{608D4916-BD88-48AC-B021-A181817D7498}|CleanArchitecture.API\\CleanArchitecture.API.csproj|solutionrelative:cleanarchitecture.api\\cleanarchitecture.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97D07D27-3635-4942-B06A-DADE4DCFB23B}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\j\u00FAlio c\u00E9sar\\desktop\\bolsa\\cleanarch\\cleanarchitecture\\cleanarchitecture.application\\usecases\\createuser\\createuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97D07D27-3635-4942-B06A-DADE4DCFB23B}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\usecases\\createuser\\createuservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97D07D27-3635-4942-B06A-DADE4DCFB23B}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\j\u00FAlio c\u00E9sar\\desktop\\bolsa\\cleanarch\\cleanarchitecture\\cleanarchitecture.application\\usecases\\createuser\\createusermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97D07D27-3635-4942-B06A-DADE4DCFB23B}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\usecases\\createuser\\createusermapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{97D07D27-3635-4942-B06A-DADE4DCFB23B}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\j\u00FAlio c\u00E9sar\\desktop\\bolsa\\cleanarch\\cleanarchitecture\\cleanarchitecture.application\\usecases\\createuser\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97D07D27-3635-4942-B06A-DADE4DCFB23B}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\usecases\\createuser\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97D07D27-3635-4942-B06A-DADE4DCFB23B}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\j\u00FAlio c\u00E9sar\\desktop\\bolsa\\cleanarch\\cleanarchitecture\\cleanarchitecture.application\\usecases\\createuser\\createuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97D07D27-3635-4942-B06A-DADE4DCFB23B}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\usecases\\createuser\\createuserresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97D07D27-3635-4942-B06A-DADE4DCFB23B}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\j\u00FAlio c\u00E9sar\\desktop\\bolsa\\cleanarch\\cleanarchitecture\\cleanarchitecture.application\\cleanarchitecture.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{97D07D27-3635-4942-B06A-DADE4DCFB23B}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\cleanarchitecture.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D04A107-7EEF-4A5B-ACB0-2DBAFC84BFAD}|Persistence\\CleanArchitecture.Persistence.csproj|c:\\users\\j\u00FAlio c\u00E9sar\\desktop\\bolsa\\cleanarch\\cleanarchitecture\\persistence\\servicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D04A107-7EEF-4A5B-ACB0-2DBAFC84BFAD}|Persistence\\CleanArchitecture.Persistence.csproj|solutionrelative:persistence\\servicesextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D04A107-7EEF-4A5B-ACB0-2DBAFC84BFAD}|Persistence\\CleanArchitecture.Persistence.csproj|c:\\users\\j\u00FAlio c\u00E9sar\\desktop\\bolsa\\cleanarch\\cleanarchitecture\\persistence\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D04A107-7EEF-4A5B-ACB0-2DBAFC84BFAD}|Persistence\\CleanArchitecture.Persistence.csproj|solutionrelative:persistence\\repositories\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7037790D-DAE2-4898-A153-D6A67487F5F6}|Domain\\CleanArchitecture.Domain.csproj|c:\\users\\j\u00FAlio c\u00E9sar\\desktop\\bolsa\\cleanarch\\cleanarchitecture\\domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7037790D-DAE2-4898-A153-D6A67487F5F6}|Domain\\CleanArchitecture.Domain.csproj|solutionrelative:domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{608D4916-BD88-48AC-B021-A181817D7498}|CleanArchitecture.API\\CleanArchitecture.API.csproj|c:\\users\\j\u00FAlio c\u00E9sar\\desktop\\bolsa\\cleanarch\\cleanarchitecture\\cleanarchitecture.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{608D4916-BD88-48AC-B021-A181817D7498}|CleanArchitecture.API\\CleanArchitecture.API.csproj|solutionrelative:cleanarchitecture.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D04A107-7EEF-4A5B-ACB0-2DBAFC84BFAD}|Persistence\\CleanArchitecture.Persistence.csproj|c:\\users\\j\u00FAlio c\u00E9sar\\desktop\\bolsa\\cleanarch\\cleanarchitecture\\persistence\\cleanarchitecture.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8D04A107-7EEF-4A5B-ACB0-2DBAFC84BFAD}|Persistence\\CleanArchitecture.Persistence.csproj|solutionrelative:persistence\\cleanarchitecture.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D04A107-7EEF-4A5B-ACB0-2DBAFC84BFAD}|Persistence\\CleanArchitecture.Persistence.csproj|c:\\users\\j\u00FAlio c\u00E9sar\\desktop\\bolsa\\cleanarch\\cleanarchitecture\\persistence\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D04A107-7EEF-4A5B-ACB0-2DBAFC84BFAD}|Persistence\\CleanArchitecture.Persistence.csproj|solutionrelative:persistence\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7037790D-DAE2-4898-A153-D6A67487F5F6}|Domain\\CleanArchitecture.Domain.csproj|c:\\users\\j\u00FAlio c\u00E9sar\\desktop\\bolsa\\cleanarch\\cleanarchitecture\\domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7037790D-DAE2-4898-A153-D6A67487F5F6}|Domain\\CleanArchitecture.Domain.csproj|solutionrelative:domain\\interfaces\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7037790D-DAE2-4898-A153-D6A67487F5F6}|Domain\\CleanArchitecture.Domain.csproj|c:\\users\\j\u00FAlio c\u00E9sar\\desktop\\bolsa\\cleanarch\\cleanarchitecture\\domain\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7037790D-DAE2-4898-A153-D6A67487F5F6}|Domain\\CleanArchitecture.Domain.csproj|solutionrelative:domain\\interfaces\\ibaserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D04A107-7EEF-4A5B-ACB0-2DBAFC84BFAD}|Persistence\\CleanArchitecture.Persistence.csproj|c:\\users\\j\u00FAlio c\u00E9sar\\desktop\\bolsa\\cleanarch\\cleanarchitecture\\persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D04A107-7EEF-4A5B-ACB0-2DBAFC84BFAD}|Persistence\\CleanArchitecture.Persistence.csproj|solutionrelative:persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D04A107-7EEF-4A5B-ACB0-2DBAFC84BFAD}|Persistence\\CleanArchitecture.Persistence.csproj|c:\\users\\j\u00FAlio c\u00E9sar\\desktop\\bolsa\\cleanarch\\cleanarchitecture\\persistence\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D04A107-7EEF-4A5B-ACB0-2DBAFC84BFAD}|Persistence\\CleanArchitecture.Persistence.csproj|solutionrelative:persistence\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97D07D27-3635-4942-B06A-DADE4DCFB23B}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\j\u00FAlio c\u00E9sar\\desktop\\bolsa\\cleanarch\\cleanarchitecture\\cleanarchitecture.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97D07D27-3635-4942-B06A-DADE4DCFB23B}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7037790D-DAE2-4898-A153-D6A67487F5F6}|Domain\\CleanArchitecture.Domain.csproj|c:\\users\\j\u00FAlio c\u00E9sar\\desktop\\bolsa\\cleanarch\\cleanarchitecture\\domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7037790D-DAE2-4898-A153-D6A67487F5F6}|Domain\\CleanArchitecture.Domain.csproj|solutionrelative:domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7037790D-DAE2-4898-A153-D6A67487F5F6}|Domain\\CleanArchitecture.Domain.csproj|c:\\users\\j\u00FAlio c\u00E9sar\\desktop\\bolsa\\cleanarch\\cleanarchitecture\\domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7037790D-DAE2-4898-A153-D6A67487F5F6}|Domain\\CleanArchitecture.Domain.csproj|solutionrelative:domain\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7037790D-DAE2-4898-A153-D6A67487F5F6}|Domain\\CleanArchitecture.Domain.csproj|c:\\users\\j\u00FAlio c\u00E9sar\\desktop\\bolsa\\cleanarch\\cleanarchitecture\\domain\\cleanarchitecture.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{7037790D-DAE2-4898-A153-D6A67487F5F6}|Domain\\CleanArchitecture.Domain.csproj|solutionrelative:domain\\cleanarchitecture.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BE771A9B-60AD-450D-B68E-FA028592E06B}|CleanArchitecture.Tests\\CleanArchitecture.Tests.csproj|c:\\users\\j\u00FAlio c\u00E9sar\\desktop\\bolsa\\cleanarch\\cleanarchitecture\\cleanarchitecture.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BE771A9B-60AD-450D-B68E-FA028592E06B}|CleanArchitecture.Tests\\CleanArchitecture.Tests.csproj|solutionrelative:cleanarchitecture.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D04A107-7EEF-4A5B-ACB0-2DBAFC84BFAD}|Persistence\\CleanArchitecture.Persistence.csproj|c:\\users\\j\u00FAlio c\u00E9sar\\desktop\\bolsa\\cleanarch\\cleanarchitecture\\persistence\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D04A107-7EEF-4A5B-ACB0-2DBAFC84BFAD}|Persistence\\CleanArchitecture.Persistence.csproj|solutionrelative:persistence\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7037790D-DAE2-4898-A153-D6A67487F5F6}|Domain\\CleanArchitecture.Domain.csproj|c:\\users\\j\u00FAlio c\u00E9sar\\desktop\\bolsa\\cleanarch\\cleanarchitecture\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7037790D-DAE2-4898-A153-D6A67487F5F6}|Domain\\CleanArchitecture.Domain.csproj|solutionrelative:domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{97D07D27-3635-4942-B06A-DADE4DCFB23B}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|c:\\users\\j\u00FAlio c\u00E9sar\\desktop\\bolsa\\cleanarch\\cleanarchitecture\\cleanarchitecture.application\\services\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97D07D27-3635-4942-B06A-DADE4DCFB23B}|CleanArchitecture.Application\\CleanArchitecture.Application.csproj|solutionrelative:cleanarchitecture.application\\services\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -107,45 +30,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CreateUserHandler.cs",
-              "DocumentMoniker": "C:\\Users\\J\u00FAlio C\u00E9sar\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\CreateUser\\CreateUserHandler.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Application\\UseCases\\CreateUser\\CreateUserHandler.cs",
-              "ToolTip": "C:\\Users\\J\u00FAlio C\u00E9sar\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\CreateUser\\CreateUserHandler.cs",
-              "RelativeToolTip": "CleanArchitecture.Application\\UseCases\\CreateUser\\CreateUserHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvx4AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T16:58:45.145Z",
+              "Title": "CleanArchitecture.API",
+              "DocumentMoniker": "C:\\Users\\J\u00FAlio C\u00E9sar\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\CleanArchitecture.API\\CleanArchitecture.API.csproj",
+              "RelativeDocumentMoniker": "CleanArchitecture.API\\CleanArchitecture.API.csproj",
+              "ToolTip": "C:\\Users\\J\u00FAlio C\u00E9sar\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\CleanArchitecture.API\\CleanArchitecture.API.csproj",
+              "RelativeToolTip": "CleanArchitecture.API\\CleanArchitecture.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-25T16:46:53.897Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CreateUserValidator.cs",
-              "DocumentMoniker": "C:\\Users\\J\u00FAlio C\u00E9sar\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\CreateUser\\CreateUserValidator.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Application\\UseCases\\CreateUser\\CreateUserValidator.cs",
-              "ToolTip": "C:\\Users\\J\u00FAlio C\u00E9sar\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\CreateUser\\CreateUserValidator.cs",
-              "RelativeToolTip": "CleanArchitecture.Application\\UseCases\\CreateUser\\CreateUserValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T16:56:39.016Z",
+              "Title": "Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.201\\Sdks\\Microsoft.NET.Sdk.Razor\\targets\\Microsoft.NET.Sdk.Razor.MvcApplicationPartsDiscovery.targets",
+              "ViewState": "AgIAACYAAAAAAAAAAIAwwDUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-03-25T16:46:08.709Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CreateUserMapper.cs",
-              "DocumentMoniker": "C:\\Users\\J\u00FAlio C\u00E9sar\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\CreateUser\\CreateUserMapper.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Application\\UseCases\\CreateUser\\CreateUserMapper.cs",
-              "ToolTip": "C:\\Users\\J\u00FAlio C\u00E9sar\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\CreateUser\\CreateUserMapper.cs",
-              "RelativeToolTip": "CleanArchitecture.Application\\UseCases\\CreateUser\\CreateUserMapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T16:54:47.707Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "CreateUserRequest.cs",
               "DocumentMoniker": "C:\\Users\\J\u00FAlio C\u00E9sar\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\CreateUser\\CreateUserRequest.cs",
               "RelativeDocumentMoniker": "CleanArchitecture.Application\\UseCases\\CreateUser\\CreateUserRequest.cs",
@@ -153,259 +63,21 @@
               "RelativeToolTip": "CleanArchitecture.Application\\UseCases\\CreateUser\\CreateUserRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T16:53:28.415Z",
+              "WhenOpened": "2025-03-25T16:45:42.954Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CreateUserResponse.cs",
-              "DocumentMoniker": "C:\\Users\\J\u00FAlio C\u00E9sar\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\CreateUser\\CreateUserResponse.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Application\\UseCases\\CreateUser\\CreateUserResponse.cs",
-              "ToolTip": "C:\\Users\\J\u00FAlio C\u00E9sar\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\CleanArchitecture.Application\\UseCases\\CreateUser\\CreateUserResponse.cs",
-              "RelativeToolTip": "CleanArchitecture.Application\\UseCases\\CreateUser\\CreateUserResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\J\u00FAlio C\u00E9sar\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\CleanArchitecture.Application\\Services\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Services\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\J\u00FAlio C\u00E9sar\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\CleanArchitecture.Application\\Services\\ServiceExtensions.cs",
+              "RelativeToolTip": "CleanArchitecture.Application\\Services\\ServiceExtensions.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAlwBAAAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T16:52:05.294Z",
+              "WhenOpened": "2025-03-25T16:45:33.926Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ServicesExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\J\u00FAlio C\u00E9sar\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\Persistence\\ServicesExtensions.cs",
-              "RelativeDocumentMoniker": "Persistence\\ServicesExtensions.cs",
-              "ToolTip": "C:\\Users\\J\u00FAlio C\u00E9sar\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\Persistence\\ServicesExtensions.cs",
-              "RelativeToolTip": "Persistence\\ServicesExtensions.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T15:21:34.663Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CleanArchitecture.Application.csproj",
-              "DocumentMoniker": "C:\\Users\\J\u00FAlio C\u00E9sar\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
-              "RelativeDocumentMoniker": "CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
-              "ToolTip": "C:\\Users\\J\u00FAlio C\u00E9sar\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
-              "RelativeToolTip": "CleanArchitecture.Application\\CleanArchitecture.Application.csproj",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-23T14:55:36.703Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CleanArchitecture.Persistence.csproj",
-              "DocumentMoniker": "C:\\Users\\J\u00FAlio C\u00E9sar\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\Persistence\\CleanArchitecture.Persistence.csproj",
-              "RelativeDocumentMoniker": "Persistence\\CleanArchitecture.Persistence.csproj",
-              "ToolTip": "C:\\Users\\J\u00FAlio C\u00E9sar\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\Persistence\\CleanArchitecture.Persistence.csproj",
-              "RelativeToolTip": "Persistence\\CleanArchitecture.Persistence.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-23T14:43:20.827Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\J\u00FAlio C\u00E9sar\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\Persistence\\Repositories\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "Persistence\\Repositories\\UnitOfWork.cs",
-              "ToolTip": "C:\\Users\\J\u00FAlio C\u00E9sar\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\Persistence\\Repositories\\UnitOfWork.cs",
-              "RelativeToolTip": "Persistence\\Repositories\\UnitOfWork.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T15:15:04.351Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IUnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\J\u00FAlio C\u00E9sar\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\Domain\\Interfaces\\IUnitOfWork.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IUnitOfWork.cs",
-              "ToolTip": "C:\\Users\\J\u00FAlio C\u00E9sar\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\Domain\\Interfaces\\IUnitOfWork.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IUnitOfWork.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T14:18:57.839Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\J\u00FAlio C\u00E9sar\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\CleanArchitecture.API\\appsettings.json",
-              "RelativeDocumentMoniker": "CleanArchitecture.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\J\u00FAlio C\u00E9sar\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\CleanArchitecture.API\\appsettings.json",
-              "RelativeToolTip": "CleanArchitecture.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-23T15:24:51.248Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\J\u00FAlio C\u00E9sar\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\Domain\\Interfaces\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\J\u00FAlio C\u00E9sar\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\Domain\\Interfaces\\IUserRepository.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T14:16:14.869Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "IBaseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\J\u00FAlio C\u00E9sar\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\Domain\\Interfaces\\IBaseRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IBaseRepository.cs",
-              "ToolTip": "C:\\Users\\J\u00FAlio C\u00E9sar\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\Domain\\Interfaces\\IBaseRepository.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IBaseRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T14:13:18.882Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "BaseRepository.cs",
-              "DocumentMoniker": "C:\\Users\\J\u00FAlio C\u00E9sar\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\Persistence\\Repositories\\BaseRepository.cs",
-              "RelativeDocumentMoniker": "Persistence\\Repositories\\BaseRepository.cs",
-              "ToolTip": "C:\\Users\\J\u00FAlio C\u00E9sar\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\Persistence\\Repositories\\BaseRepository.cs",
-              "RelativeToolTip": "Persistence\\Repositories\\BaseRepository.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwDAAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T14:58:56.077Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\J\u00FAlio C\u00E9sar\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\Persistence\\Repositories\\UserRepository.cs",
-              "RelativeDocumentMoniker": "Persistence\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\J\u00FAlio C\u00E9sar\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\Persistence\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "Persistence\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T15:10:19.239Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\J\u00FAlio C\u00E9sar\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\Persistence\\Context\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Persistence\\Context\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\J\u00FAlio C\u00E9sar\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\Persistence\\Context\\AppDbContext.cs",
-              "RelativeToolTip": "Persistence\\Context\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T14:44:03.977Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\J\u00FAlio C\u00E9sar\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\CleanArchitecture.Application\\Class1.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Application\\Class1.cs",
-              "ToolTip": "C:\\Users\\J\u00FAlio C\u00E9sar\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\CleanArchitecture.Application\\Class1.cs",
-              "RelativeToolTip": "CleanArchitecture.Application\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T13:55:41.809Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\J\u00FAlio C\u00E9sar\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\Domain\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\J\u00FAlio C\u00E9sar\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\Domain\\Entities\\User.cs",
-              "RelativeToolTip": "Domain\\Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T14:04:52.012Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\J\u00FAlio C\u00E9sar\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\Domain\\Entities\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\J\u00FAlio C\u00E9sar\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\Domain\\Entities\\BaseEntity.cs",
-              "RelativeToolTip": "Domain\\Entities\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T14:02:18.835Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "CleanArchitecture.Domain.csproj",
-              "DocumentMoniker": "C:\\Users\\J\u00FAlio C\u00E9sar\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\Domain\\CleanArchitecture.Domain.csproj",
-              "RelativeDocumentMoniker": "Domain\\CleanArchitecture.Domain.csproj",
-              "ToolTip": "C:\\Users\\J\u00FAlio C\u00E9sar\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\Domain\\CleanArchitecture.Domain.csproj",
-              "RelativeToolTip": "Domain\\CleanArchitecture.Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-22T14:00:15.59Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\J\u00FAlio C\u00E9sar\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\CleanArchitecture.Tests\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "CleanArchitecture.Tests\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\J\u00FAlio C\u00E9sar\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\CleanArchitecture.Tests\\UnitTest1.cs",
-              "RelativeToolTip": "CleanArchitecture.Tests\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T13:59:09.103Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\J\u00FAlio C\u00E9sar\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\Persistence\\Class1.cs",
-              "RelativeDocumentMoniker": "Persistence\\Class1.cs",
-              "ToolTip": "C:\\Users\\J\u00FAlio C\u00E9sar\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\Persistence\\Class1.cs",
-              "RelativeToolTip": "Persistence\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T13:56:32.866Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\J\u00FAlio C\u00E9sar\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\Domain\\Class1.cs",
-              "RelativeDocumentMoniker": "Domain\\Class1.cs",
-              "ToolTip": "C:\\Users\\J\u00FAlio C\u00E9sar\\Desktop\\BOLSA\\CleanArch\\CleanArchitecture\\Domain\\Class1.cs",
-              "RelativeToolTip": "Domain\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-22T13:54:06.643Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
